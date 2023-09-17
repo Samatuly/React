@@ -5,3 +5,4 @@
 <em>Instructor: </em> <strong>Bermagambet Duisek</strong><br>
 <br>
 <strong>HW 1: To do "30 Days of JavaScript" ✅</strong><br>
+<strong>HW 2: Push React Application 🔜</strong><br>
